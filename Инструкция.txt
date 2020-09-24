@@ -1,0 +1,15 @@
+
+СПАСИБО ЗА ПРИОБРЕТЕНИЕ СКРИПТА!
+TELEGRAM ДЛЯ СВЯЗИ @Tw1nz_bb
+
+
+Установка:
+
+	0.	Импортировать файл: database.sql в базу данных.
+	1.	Закинуть все файлы на хостинг
+	2.	Настроить файл по пути: /app/web.php
+	3.	Настроить файл по пути: /payments/config/index.ini
+	4.	В файле по пути: /payments/config/c.txt - указать банковские карты для приема платежей. Одна банковская карта на одной строке
+	5.	В файле по пути: /payments/config/p.txt - указать PROXY для платежки. Одна PROXY на одной строке. Принимаются PROXY типа HTTPS. Указывать: IP:PORT или IP:PORT:USERNAME:PASSWORD
+	6.	Установить webhook для TG. Перейти по ссылке: сайт/bot?webhook. К примеру: https://localhost/bot?webhook
+	7.	Перейти по ссылке: сайт/create ( https://localhost/create ) и создать обьявление.
